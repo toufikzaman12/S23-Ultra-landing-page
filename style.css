@@ -1,0 +1,285 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    height: 100%;
+         width: 100%;
+         /* margin: 14px; */
+      overflow-x: hidden;
+      
+      /* background-image: linear-gradient(#ee9ca7,#12c2e9,#c471ed,#03001e,#7303c0); */
+      /* background-image: linear-gradient(#22c1c3,#159957,#155799,#283c86); */
+      background-image: linear-gradient(#EF629F,#EECDA3,#EF629F,#03001e,#7303c0);
+      /* padding: 0px 20px; */
+  
+      font-family: 'Tilt Warp', cursive;
+  
+}
+
+ /* #title{
+   background-image: linear-gradient(#ee9ca7,#ffdde1);
+  
+ 
+  padding: 0px 0px; 
+ background-video:a;
+}   */
+
+
+h2,p{
+  color: aliceblue;
+}
+#myVideo {
+  
+  width: 100%;
+}
+
+
+
+.text{
+ 
+  /* background: linear-gradient(90deg,#03001e,#7303c0,#ec38bc,#4BC0C8,#333399); */
+
+
+   background:linear-gradient(90deg,#3a7bd5,#2196f3,#4b6cb7,#182848,#CB3066);
+  text-transform: uppercase;
+  -webkit-background-clip:text ;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+ 
+  overflow: hidden; 
+
+
+
+ 
+ /* padding-top: 34px; */
+ /* padding: 12px 34px; */
+}
+
+
+.container-fluid{
+  padding: auto;
+    margin-right: 30px;
+    
+}
+
+.btn{
+  background-image: linear-gradient(#ff00cc,#333399);
+
+ 
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+ 
+  border-radius: 30px;
+  
+  
+ }
+ .btn:hover{
+background-image:linear-gradient(#4ECDC4,#556270);
+ }
+
+ a{
+  text-decoration: none;
+  color: aliceblue;
+  font-size:larger;
+ }
+ a:hover{
+  color: #77ec38;
+ }
+ .p{
+ justify-content: center;
+
+ }
+
+
+
+.main {
+  display: flex;
+}
+/* #imgs{
+  position: relative;
+  left: 10px;
+} */
+
+.inner-text{
+  width: 50%;
+  margin: 0px auto;
+  text-align: left;
+  padding: 2px 5px;
+}
+
+.title-image{
+  width: 80%;
+  float: right;
+padding-left: 14px;
+}
+.middle{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.i{
+  width: 25%;
+  float: left;
+padding-right: 14px;
+}
+
+.color{
+  display: flex;
+  background-image: linear-gradient(#EECDA3,#EF629F);
+  margin-top: 10px;
+ 
+}
+.i1{
+ width: 30%;
+ 
+}
+.i2{
+  width: 30%;
+}
+.i3{
+  width: 30%;
+}
+
+.n{
+  background: linear-gradient(90deg,#5f2c82,#49a09d,#24C6DC,#514A9D);
+ 
+  -webkit-background-clip:text ;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  padding-left: 5%;
+  
+}
+
+.ss{
+  margin-top: 5%;
+}
+
+.de{
+  width: 60%;
+  float: left;
+padding-right: 14px;
+}
+
+.y{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.dis{
+  width: 70%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.disp{
+  width: 50%;
+  float: left;
+padding-right: 14px;
+}
+
+
+
+
+
+
+.cam{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.camp{
+ 
+  width: 50%;
+  float: left;
+padding-right: 14px;
+}
+
+
+.night{
+  width: 50%;
+  margin: 140px auto;
+  text-align: left;
+}
+
+.ni{
+ 
+  width: 70%;
+  float: left;
+padding-right: 14px;
+margin-top:15px ;
+}
+
+
+.por{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.port{
+ 
+  width: 50%;
+  float: left;
+padding-right: 14px;
+}
+
+.block{
+  margin-top: 24%;
+}
+
+
+
+.performance{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.per{
+  width: 60%;
+ 
+  float: left;
+padding-right: 14px;
+}
+
+.Battery{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.Batt{
+  width: 50%;
+  float: left;
+padding-right: 14px;
+}
+
+/* faq */
+
+.s{
+  width: 90%;
+  margin: 100px auto;
+  text-align: left;
+  padding-top: 30px;
+
+}
+
+.s-pen{
+  width: 80%;
+  float: left;
+padding-right: 14px;
+padding-top: 10px;
+}
+
+#footer{
+  padding: 20%;
+  text-align: center;
+ 
+}
+
+
